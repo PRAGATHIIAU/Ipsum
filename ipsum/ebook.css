@@ -1,0 +1,81 @@
+body{
+text-align:center;
+background-color:white;
+}
+#h{
+	position: relative;
+	top:20vh;
+	background-color:black;
+	color:white;
+	height:3cm;
+	text-align:center;
+	display:inline-block;
+	width:100%;
+	font-size:27px;
+	font-family:forte;
+}
+.a{
+	position: relative;
+	top:20vh;
+}
+.a,.a1,.a2,.a3,.a4,.a5{
+	background-color:white;
+	color:black;
+	height:3cm;
+	text-align:center;
+	display:inline-block;
+	width:100%;
+	font-size:32px;
+	border-radius:8px;
+}
+.b{
+	position:relative;
+	top:20vh;
+background-color:black;
+height:0.07cm;}
+.a:hover{
+	position:relative;
+background-color:#C0C0C0;
+border-radius:20px;
+}
+.z{
+	position:relative;
+	color:white;
+}
+.rating-box .ratings .fa{
+	position:relative;
+	font-size:40px;
+	color:gold;
+	cursor:pointer;
+}
+.rating-box input,.ratings{
+	position:relative;
+	float:left;
+}
+.rating-box{
+	position:relative;
+
+	display:none;
+}
+.rating-box input{
+	position:relative;
+	left:0.5cm;
+	top:23vh;
+	border:none;
+	background-color:white;
+	font-size:20px;
+}
+.book{
+	position:relative;
+	color:black;
+}
+#ip,#h{
+	position:relative;
+	float:left;
+}
+#ip{
+	position:relative;
+	height:3cm;
+width:3cm;}
+
+	

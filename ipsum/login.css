@@ -1,0 +1,43 @@
+body{
+background-image:url('login.jpeg');
+background-repeat:no-repeat;
+background-size:cover;
+}
+fieldset{
+position:fixed;
+top:30%;
+left:30%;
+height:auto;
+padding:2cm 3cm 2cm 3cm;
+background-color:rgba(255,255,255,1);
+width:10cm;
+}
+img,#c{
+float:left;}
+#c,#d{
+	border:none;
+	border-bottom:solid black 2px;
+	font-size:18px;
+}
+.b{
+background-color:black;	
+border:none;
+color:white;
+padding:11px;
+text-align:center;
+border-radius:8px;
+width:8cm;
+height:1cm;
+font-size:18px;	
+}
+.b:hover
+{background-color:Lightgray;
+border:solid black 2px;
+color:black;
+padding:11px;
+text-align:center;
+font-size:18px;	}
+#c:hover #d:hover{
+border-top-color:Aquamarine;}
+#d,#c::placeholder{
+text-align:center;}

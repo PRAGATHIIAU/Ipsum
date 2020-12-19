@@ -1,0 +1,86 @@
+body{
+	background-image:url("try5.jpg");
+	background-repeat:no-repeat;
+	background-size:cover;
+}
+.a,.d{
+	float:left;
+	width:40vw;
+	position:center;
+    
+	
+	
+}
+.b,.c,.e,.f{
+float:down;}
+.b,.e{
+background-color:black;
+color:white;
+height:1.5cm;
+}
+.c,.f{
+	background-color:rgba(255,255,255,0.6);
+	
+
+	font-size:20px;
+	font-style:bold;
+	font-family:Times New Roman;
+	color:black;
+}
+#a,#b{
+	text-align:center;
+    float:center;
+
+
+font-size:20px;
+}
+.c{
+border-right:solid black;
+height:10.82cm;}
+input{
+	border:none;
+border-bottom:solid black 2px;
+background-color:rgba(0,0,0,0.02);
+color:black;
+}
+#pass1::placeholder{
+color:black;
+text-align:center;
+font-size:14px;}
+#pass::placeholder{
+color:black;
+text-align:center;
+font-size:14px;}
+.z::placeholder{
+color:black;
+text-align:center;
+font-size:14px;}
+.c:hover{
+	background-color:white;
+	
+	
+}
+.f:hover{
+	background-color:white;
+}
+#m{
+background-color:black;
+color:white;
+border:none;
+padding:20px;
+margin:25px;
+font-family:times new roman;
+font-size:20px;
+position:relative;
+right:9.8cm;
+}
+.z,#pass,#pass1{
+width:7cm;}
+.z:hover{
+border:solid black 2px;}
+#pass:hover{
+border:solid black 2px;}
+#pass1:hover{
+border:solid black 2px;}
+
+
